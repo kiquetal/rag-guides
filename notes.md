@@ -10,6 +10,8 @@ Basically without RAG, LLm tends to hallucinations.
 ##### Chapter II: RAG system and their design
 The pipeline which creates knowledge base will be named "indexing pipeline"
 
+- The retriever: The most critical component of the entire system.
+
 
 
 
