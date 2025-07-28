@@ -25,4 +25,8 @@ The pipeline which creates knowledge base will be named "indexing pipeline"
 
 - Indexing pipeline: Creating a knowledge base for RAG
 
+- Data loading: We will use LangChain
+
+- Data splitting: Chunking and disucc chunking strategies.
+
 
