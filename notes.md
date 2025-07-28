@@ -16,7 +16,9 @@ The pipeline which creates knowledge base will be named "indexing pipeline"
 
 - LLM setup: LLM can be foundation(base) models 
 
+- Index pipeline: maintain the data knowledge
 
+- Generation pipeline: Maintain the chat capabilites
 
 
 
