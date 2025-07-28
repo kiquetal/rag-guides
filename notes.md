@@ -21,5 +21,8 @@ The pipeline which creates knowledge base will be named "indexing pipeline"
 - Generation pipeline: Maintain the chat capabilites
 
 
-
 ##### Chapter III: 
+
+- Indexing pipeline: Creating a knowledge base for RAG
+
+
